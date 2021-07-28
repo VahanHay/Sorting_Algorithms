@@ -1,4 +1,4 @@
-////bubble sort for bigger to less
+////selection sort for bigger to less
 #include <iostream>
 
 
